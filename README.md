@@ -1,6 +1,6 @@
 # Hi 👋 My name is Murillo  
 
-## 🌍 Data Scientist  
+## 🌍 Student
 
 - ✉️ Contact me at [leciopmurillo@gmail.com](mailto:leciopmurillo@gmail.com)  
 - 🤝 I'm open to collaborating on projects  
