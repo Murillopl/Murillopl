@@ -47,10 +47,10 @@
 
 ## 📌 Top Repositories  
 <p align="left">
-  <a href="https://github.com/Murillopl/network_security">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Murillopl&repo=network_security&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <a href="">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?" />
   </a>
-  <a href="https://github.com/Murillopl/MLproject">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Murillopl&repo=MLproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <a href="">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?" />
   </a>
 </p>
