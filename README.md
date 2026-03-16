@@ -30,7 +30,7 @@ Mobile application built with Kotlin and Jetpack Compose.
 Machine learning model trained on Hamlet dataset.
 
 📊 House Price Prediction  
-Regression model using Kaggle dataset.
+Regression model using Kaggle dataset
 
 ---
 
